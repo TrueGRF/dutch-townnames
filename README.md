@@ -1,4 +1,4 @@
-# Blank TrueGRF template (Industry)
+# Example Townnames TrueGRF
 
-This is a completely blank [TrueGRF](https://truegrf.truebrain.nl/) project to design your industry GRFs with.
+This is a [TrueGRF](https://truegrf.truebrain.nl/) project to demonstrate what you can do with townnames in TrueGRF.
 TrueGRF makes creating NewGRFs easy.
