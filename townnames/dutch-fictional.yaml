@@ -4,11 +4,7 @@ mainset:
 - names:
   - name: ''
     probability: 100
-  - name: 'Oud '
-    probability: 1
-  - name: 'Sint '
-    probability: 1
-  - name: 'De '
+  - name: '@prefix'
     probability: 1
 - names:
   - name: '''s-Graven'
@@ -64,13 +60,30 @@ subsets:
     - name: ' aan '
       probability: 1
   - names:
-    - name: den Hoef
-      probability: 1
+    - name: '@den'
+      probability: 3
     - name: Zee
       probability: 1
     - name: de Lek
       probability: 1
-    - name: den IJssel
+- name: prefix
+  parts:
+  - names:
+    - name: 'Oud '
       probability: 1
-    - name: den Rijn
+    - name: 'Sint '
+      probability: 1
+    - name: 'De '
+      probability: 1
+- name: den
+  parts:
+  - names:
+    - name: 'den '
+      probability: 1
+  - names:
+    - name: Hoef
+      probability: 1
+    - name: IJssel
+      probability: 1
+    - name: Rijn
       probability: 1
