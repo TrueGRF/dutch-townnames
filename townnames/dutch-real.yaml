@@ -1,3 +1,4 @@
+available: true
 id: 1
 mainset:
 - names:
@@ -101,6 +102,6 @@ mainset:
   - name: Asten
   - name: Augsbuurt
   - name: Augustinusga
-name: Dutch city names (real)
+name: Dutch (real)
 source: https://opendata.cbs.nl/#/CBS/nl/dataset/84734NED/table?dl=40CC6
 subsets: []
