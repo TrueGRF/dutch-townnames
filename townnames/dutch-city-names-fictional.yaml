@@ -1,25 +1,13 @@
-name: Dutch city names (fictional)
 id: 0
-subsets:
-- name: aan
-  parts:
-  - names:
-    - name: " aan "
-  - names:
-    - name: den Hoef
-    - name: Zee
-    - name: de Lek
-    - name: den IJssel
-    - name: den Rijn
 mainset:
 - names:
-  - probability: 10
-    name: ""
-  - name: "Oud "
-  - name: "Sint "
-  - name: "De "
+  - name: ''
+    probability: 10
+  - name: 'Oud '
+  - name: 'Sint '
+  - name: 'De '
 - names:
-  - name: "'s-Graven"
+  - name: '''s-Graven'
   - name: Dor
   - name: Haar
   - name: Kat
@@ -41,6 +29,18 @@ mainset:
   - name: wijk
   - name: zande
 - names:
-  - probability: 10
-    name: ""
-  - name: "@aan"
+  - name: ''
+    probability: 10
+  - name: '@aan'
+name: Dutch city names (fictional)
+subsets:
+- name: aan
+  parts:
+  - names:
+    - name: ' aan '
+  - names:
+    - name: den Hoef
+    - name: Zee
+    - name: de Lek
+    - name: den IJssel
+    - name: den Rijn

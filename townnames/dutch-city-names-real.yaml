@@ -1,7 +1,4 @@
-name: Dutch city names (real)
 id: 1
-source: https://opendata.cbs.nl/#/CBS/nl/dataset/84734NED/table?dl=40CC6
-subsets: []
 mainset:
 - names:
   - name: Aadorp
@@ -104,3 +101,6 @@ mainset:
   - name: Asten
   - name: Augsbuurt
   - name: Augustinusga
+name: Dutch city names (real)
+source: https://opendata.cbs.nl/#/CBS/nl/dataset/84734NED/table?dl=40CC6
+subsets: []
