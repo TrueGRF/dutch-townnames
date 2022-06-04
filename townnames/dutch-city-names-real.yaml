@@ -1,0 +1,105 @@
+name: Dutch city names (real)
+source: https://opendata.cbs.nl/#/CBS/nl/dataset/84734NED/table?dl=40CC6
+subsets: []
+mainset:
+- names:
+  - name: Aadorp
+  - name: Aagtekerke
+  - name: Aalden
+  - name: Aalsmeer
+  - name: Aalsmeerderbrug
+  - name: Aalst
+  - name: Aalsum
+  - name: Aalten
+  - name: Ter Aar
+  - name: Ter Aard
+  - name: Aardenburg
+  - name: Aarlanderveen
+  - name: Aarle-Rixtel
+  - name: Aartswoud
+  - name: Abbega
+  - name: Abbekerk
+  - name: Abbenbroek
+  - name: Abbenes
+  - name: Abcoude
+  - name: Achlum
+  - name: Achterveld
+  - name: Achthuizen
+  - name: Achtmaal
+  - name: Acquoy
+  - name: Adorp
+  - name: Aduard
+  - name: Aerdenhout
+  - name: Aerdt
+  - name: Afferden
+  - name: Afferden L
+  - name: Agelo
+  - name: Akersloot
+  - name: Akkrum
+  - name: Akmarijp
+  - name: Albergen
+  - name: Alblasserdam
+  - name: Alde Leie
+  - name: Aldeboarn
+  - name: Aldtsjerk
+  - name: Alem
+  - name: Alkmaar
+  - name: Allingawier
+  - name: Almelo
+  - name: Almen
+  - name: Almere
+  - name: Almkerk
+  - name: Alphen
+  - name: Alphen aan den Rijn
+  - name: Alteveer
+  - name: Alteveer gem Hoogeveen
+  - name: Altforst
+  - name: Ambt Delden
+  - name: Ameide
+  - name: Amen
+  - name: America
+  - name: Amerongen
+  - name: Amersfoort
+  - name: Ammerstol
+  - name: Ammerzoden
+  - name: Amstelhoek
+  - name: Amstelveen
+  - name: Amstenrade
+  - name: Amsterdam
+  - name: Amsterdam-Duivendrecht
+  - name: Andel
+  - name: Den Andel
+  - name: Andelst
+  - name: Anderen
+  - name: Andijk
+  - name: Ane
+  - name: Anerveen
+  - name: Anevelde
+  - name: Angeren
+  - name: Angerlo
+  - name: Anjum
+  - name: Ankeveen
+  - name: Anloo
+  - name: Anna Paulowna
+  - name: Annen
+  - name: Annerveenschekanaal
+  - name: Ansen
+  - name: Ter Apel
+  - name: Apeldoorn
+  - name: Ter Apelkanaal
+  - name: Appelscha
+  - name: Appeltern
+  - name: Appingedam
+  - name: Arcen
+  - name: Arkel
+  - name: Arnemuiden
+  - name: Arnhem
+  - name: Arriën
+  - name: Arum
+  - name: Asch
+  - name: Asperen
+  - name: Assen
+  - name: Assendelft
+  - name: Asten
+  - name: Augsbuurt
+  - name: Augustinusga

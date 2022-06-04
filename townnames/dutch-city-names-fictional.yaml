@@ -1,0 +1,45 @@
+name: Dutch city names (fictional)
+subsets:
+- name: aan
+  parts:
+  - names:
+    - name: " aan "
+  - names:
+    - name: den Hoef
+    - name: Zee
+    - name: de Lek
+    - name: den IJssel
+    - name: den Rijn
+mainset:
+- names:
+  - probability: 10
+    name: ""
+  - name: "Oud "
+  - name: "Sint "
+  - name: "De "
+- names:
+  - name: "'s-Graven"
+  - name: Dor
+  - name: Haar
+  - name: Kat
+  - name: Nieuwer
+  - name: Noord
+  - name: Oost
+  - name: Oude
+  - name: Papen
+  - name: Rotter
+- names:
+  - name: dam
+  - name: deel
+  - name: drecht
+  - name: land
+  - name: moer
+  - name: molen
+  - name: polder
+  - name: steeg
+  - name: wijk
+  - name: zande
+- names:
+  - probability: 10
+    name: ""
+  - name: "@aan"
